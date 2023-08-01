@@ -7,7 +7,7 @@ print ("hi")
 
 # COMMAND ----------
 
-
+print ("hi2")
 
 # COMMAND ----------
 
